@@ -1,7 +1,7 @@
 ﻿
 namespace Semana2_primer_proyecto_visual_c_sharp_formulario
 {
-    partial class Form1
+    partial class Formulario
     {
         /// <summary>
         /// Variable del diseñador necesaria.

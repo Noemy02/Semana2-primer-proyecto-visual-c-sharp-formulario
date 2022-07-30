@@ -16,7 +16,7 @@ namespace Semana2_primer_proyecto_visual_c_sharp_formulario
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new Form1());
+            Application.Run(new Formulario());
         }
     }
 }

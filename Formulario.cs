@@ -10,9 +10,9 @@ using System.Windows.Forms;
 
 namespace Semana2_primer_proyecto_visual_c_sharp_formulario
 {
-    public partial class Form1 : Form
+    public partial class Formulario : Form
     {
-        public Form1()
+        public Formulario()
         {
             InitializeComponent();
         }
