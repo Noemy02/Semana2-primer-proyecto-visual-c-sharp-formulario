@@ -29,24 +29,24 @@ namespace Semana2_primer_proyecto_visual_c_sharp_formulario
         /// </summary>
         private void InitializeComponent()
         {
-            this.button1 = new System.Windows.Forms.Button();
+            this.btnClickThis = new System.Windows.Forms.Button();
             this.SuspendLayout();
             // 
-            // button1
+            // btnClickThis
             // 
-            this.button1.Location = new System.Drawing.Point(65, 89);
-            this.button1.Name = "button1";
-            this.button1.Size = new System.Drawing.Size(75, 23);
-            this.button1.TabIndex = 0;
-            this.button1.Text = "Click this";
-            this.button1.UseVisualStyleBackColor = true;
+            this.btnClickThis.Location = new System.Drawing.Point(65, 89);
+            this.btnClickThis.Name = "btnClickThis";
+            this.btnClickThis.Size = new System.Drawing.Size(75, 23);
+            this.btnClickThis.TabIndex = 0;
+            this.btnClickThis.Text = "Click this";
+            this.btnClickThis.UseVisualStyleBackColor = true;
             // 
             // Formulario
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(558, 328);
-            this.Controls.Add(this.button1);
+            this.Controls.Add(this.btnClickThis);
             this.Name = "Formulario";
             this.Text = "Form1";
             this.ResumeLayout(false);
@@ -55,7 +55,7 @@ namespace Semana2_primer_proyecto_visual_c_sharp_formulario
 
         #endregion
 
-        private System.Windows.Forms.Button button1;
+        private System.Windows.Forms.Button btnClickThis;
     }
 }
 
